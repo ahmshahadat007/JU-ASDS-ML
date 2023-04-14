@@ -1,6 +1,7 @@
 # JU-ASDS-ML
 Final Assignment on Machine Learning
-Link to run the Life Expectancy Jupiter Notebook in Google Colab https://colab.research.google.com/github/razibmustafiz/ASDS-JU/blob/main/Life%20Expectancy.ipynb
+Link to run the Life Expectancy Jupiter Notebook in Google Colab is https://colab.research.google.com/github/ahmshahadat007/JU-ASDS-ML/blob/main/Life%20Expectancy%20.ipynb
+or, https://colab.research.google.com/github/razibmustafiz/ASDS-JU/blob/main/Life%20Expectancy.ipynb
 
 Alternatively you can download the Jupyter Notebook and the Dataset to run it to your local machine. Please change the data loading path accordingly.
 
